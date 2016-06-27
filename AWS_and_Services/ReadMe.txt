@@ -1,9 +1,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 				Assignment 4
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-- I'm submitting the Assignment 4 without implemeting memached as I didn't have adequate time to
-  perform it. I'll submit it later. Also, I was runnig the queries and couldn't finish it by the deadline.
-
 - The findings of the assignment are captured and stored as screenshots.
  
 - Result1.png shows the time to upload the earthquake data file into the AWS bucket.
