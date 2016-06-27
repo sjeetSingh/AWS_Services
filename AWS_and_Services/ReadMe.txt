@@ -7,7 +7,7 @@
 
 - Restul2.png shows the time to upload the myData.csv file into the AWS Bucket
 
-- Result3.png is the screenshot of the MySQL Workbench which justifies the fact that the data is INDEED     inserted into the database.
+- Result3.png is the screenshot of the MySQL Workbench which justifies the fact that the data is inserted into the database.
 
 
 - 'testCSV.csv' was used to run 1000, 5000 and 10000 queries. 'Final query Results.png' illustrates that
